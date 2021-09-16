@@ -24,5 +24,14 @@
   - It allows us to define the desired end result and use it at will, in coparison to a static site which needs content defined in its place. 
   - Essentially building custom HTML elements
   *
- *
- */
+   * COMPONENTS
+   * Components are just functions. 
+   * Written with the FIRE method, it is set up with a Function, a Return, Import, and Export.
+   * 
+   */
+
+  /**
+   * 
+   */
+
+  
