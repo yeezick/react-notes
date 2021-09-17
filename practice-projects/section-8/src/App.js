@@ -5,11 +5,6 @@ import UserList from "./components/user/userList/UserList";
 
 function App() {
   const [allUsers, setAllUsers] = useState([]);
-  const [toggleList, setToggleList] = useState(false);
-
-  useEffect(() => {
-    setToggleList((prev) => !prev);
-  }, [allUsers]);
 
   return (
     <div className="app">
